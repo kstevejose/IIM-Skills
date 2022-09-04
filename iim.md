@@ -6,8 +6,6 @@
 2. [Collecting Data](#collectingdata)
 3. [Tool Selection](#toolselection)
 4. [Gather data from mulitple sources](Gatherdata)
-5. [Data Quality](#dataquality)
-6. [Data Security](#datasecurity)
 7. [Randomcode](#randomcode)
 8. [Tables for Table](#table)
 9. [Image](#image)
@@ -16,11 +14,11 @@
 ## Introduction
 Gone are the days of intuition-based decision making and every single organization is fast adopting the method of data driven decision making and reaping huge benefits. Before fully diverging into this technology, it is quite important for organizations to understand the bottlenecks and how to overcome them.
 
-## Collecting Data
+## CollectingData
 
 Gone are the days of intuition-based decision making and every single organization is fast adopting the method of data driven decision making and reaping huge benefits. Before fully diverging into this technology, it is quite important for organizations to understand the bottlenecks and how to overcome them.
 
-## Tool Selection
+## ToolSelection
 
   Gone are the days of intuition-based decision making and every single organization is fast adopting the method of data driven decision making and reaping huge benefits. Before fully diverging into this technology, it is quite important for organizations to understand the bottlenecks and how to overcome them.
 
