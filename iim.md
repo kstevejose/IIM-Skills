@@ -1,5 +1,7 @@
 # Data analytics and it's challenges
 
+*This is a rough representation of the assignment*
+
 # Table of Contents
 
 1. [Introduction](#introduction)
@@ -43,3 +45,5 @@ filtered_payouts.rename(columns={'terminal_id (DISTINCT_COUNT)_x':'Active', 'ter
 |3   |gender    |  specify the gender of the user |
 
 ## Image
+
+![Vision](Vision.png)
